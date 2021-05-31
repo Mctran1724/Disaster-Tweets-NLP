@@ -9,4 +9,3 @@ Many keywords can confound such a judgement, like "ablaze" for instance.
 We've created an LSTM model for this, and examine its performance relative to an adaboost model.
 We also explore whether various symbols identified in the exploratory data analysis would result in better classification.
 
-Hopefully I can continue this and maybe score close to the top. 
